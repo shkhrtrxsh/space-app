@@ -1,0 +1,21 @@
+h1 {
+  font-family: 'East Sea Dokdo' ,cursive;
+  font-size: 78px;
+  text-align: center;
+  color: #fff;
+  margin: 30px 0;
+}
+.status{
+  font-weight: bold;
+}
+.App {
+  text-align: center;
+}
+.card img {
+  height: 300px;
+}
+.card {
+  margin-bottom: 30px;
+  height:900px;
+
+}
